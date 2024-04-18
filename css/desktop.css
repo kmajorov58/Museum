@@ -227,10 +227,25 @@ p{
     height: auto;
 }
 .img-4-2 {
-    height: 759px;
+    height: 750px;
 }
 .img-4-3 {
-    height: 528px;
+    height: 520px;
+}
+.img-4-4 {
+    width: 395px;
+}
+.img-4-5 {
+    width: 800px;
+}
+.img-4-6 {
+    height: 350px;
+}
+.img-4-7 {
+    height: 250px;
+}
+.img-4-8 {
+    height: 410px;
 }
 .otstup {
     padding-top: 25px;
