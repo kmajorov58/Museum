@@ -39,3 +39,21 @@ a {
     text-align: center;
     margin: auto;
 }
+@media (max-width:820px) {
+    .p {
+        font-size: 15px;
+    }
+    h2 {
+        font-size: 15px;
+    }
+    p {
+        font-size: 12px;
+    }
+    .button {
+        border-radius: 5px;
+    }
+    .main {
+        padding: 1.7vh;
+    }
+
+}
